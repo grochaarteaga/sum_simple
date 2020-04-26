@@ -1,0 +1,37 @@
+
+
+.container{
+    background-color: #1d3557;
+    text-align: center;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+}
+
+
+
+#sum_button{
+    background-color: #e63946;
+    padding: 10px;
+    font-size: 30px;
+    
+}
+
+#substraction_button{
+    background-color: #a8dadc;
+    padding: 10px;
+    font-size: 30px;
+    
+}
+
+#demo{
+    
+    font-size: 35px;
+    font-weight: bold;
+    color: #f1faee;
+}
+
+p{
+    color: #f1faee;
+    padding: 10px;
+}
